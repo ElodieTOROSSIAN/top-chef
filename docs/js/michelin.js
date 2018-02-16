@@ -1,15 +1,7 @@
-/*function get() {
-	return "Hello World";
-}
-module.exports.get = get;*/
-
-//var express = require('express');
 var fs = require('fs');
 var request = require('request');
 var cheerio = require('cheerio');
-//var app     = express();
 
-//app.get('/scrape', function(req, res){
 function get() {
 
     url = 'https://restaurant.michelin.fr/restaurants/france/restaurants-1-etoile-michelin/restaurants-2-etoiles-michelin/restaurants-3-etoiles-michelin';
@@ -52,7 +44,7 @@ function get() {
 					}
 					ct --;
 					if(ct == 0) {
-						fs.writeFile('output.json', JSON.stringify(restaurants), function(err){});
+						fs.writeFile('output.json', JSON.stringify(restaurants, null, 4), function(err){});
 						//console.log(restaurants);
 					}
 				});
