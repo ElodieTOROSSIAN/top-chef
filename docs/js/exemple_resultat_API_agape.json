@@ -1,0 +1,16 @@
+{"result":1,
+"content":"",
+"data":
+{"restaurants":
+[{"id_restaurant":"4010","name":{"text":"Agapes","highlight":[{"offset":-1,"length":6}]},"city":"Paris","zipcode":"75005","is_spellchecked_result":false},
+{"id_restaurant":"1923","name":{"text":"Agap\u00e9","highlight":[{"offset":-1,"length":5}]},"city":"Paris","zipcode":"75017","is_spellchecked_result":false},
+{"id_restaurant":"20307","name":{"text":"Les Agapes","highlight":[{"offset":3,"length":6}]},"city":"Paris","zipcode":"75016","is_spellchecked_result":false},
+{"id_restaurant":"12671","name":{"text":"Agap\u00e9 Substance","highlight":[{"offset":-1,"length":5}]},"city":"Paris","zipcode":"75006","is_spellchecked_result":false},
+{"id_restaurant":"73298","name":{"text":"L'Agap\u00e9","highlight":[{"offset":1,"length":6}]},"city":"Gu\u00e9rande","zipcode":"44350","is_spellchecked_result":false},
+{"id_restaurant":"38281","name":{"text":"Les Agapes","highlight":[{"offset":3,"length":6}]},"city":"Vence","zipcode":"06140","is_spellchecked_result":false},
+{"id_restaurant":"61358","name":{"text":"Les Agapes","highlight":[{"offset":3,"length":6}]},"city":"Charenton-le-Pont","zipcode":"94220","is_spellchecked_result":false},
+{"id_restaurant":"37646","name":{"text":"\u00c1gape","highlight":[{"offset":-1,"length":5}]},"city":"Bilbao","zipcode":"48003","is_spellchecked_result":false},
+{"id_restaurant":"40916","name":{"text":"Le Petit Bacchus et Ses Agapes","highlight":[{"offset":23,"length":6}]},"city":"Toulouse","zipcode":"31000","is_spellchecked_result":false},
+{"id_restaurant":"9aa344e6-b7b2-4e31-8d12-5c07a1be3008","name":{"text":"L' Agape","highlight":[{"offset":2,"length":5}]},"city":"Bordeaux","zipcode":"33200","is_spellchecked_result":false}]
+}
+}

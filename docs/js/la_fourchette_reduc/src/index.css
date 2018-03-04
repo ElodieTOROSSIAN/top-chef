@@ -1,0 +1,30 @@
+h1
+{
+    color: green;
+	text-align: center;
+	font-size:x-large;
+	font-family:Courier New;
+}
+li
+{
+    color: green;
+	text-align: left;
+	fond-size:medium;
+	font-family:Courier New;
+}
+
+a {
+    color: blue;
+	text-align: left;
+	fond-size:medium;
+	font-family:Courier New;	
+}
+
+body
+{
+	background-image:url(logo.png);
+	background-repeat:no-repeat;
+	background-size:20%;
+	background-position:center bottom;
+
+}
